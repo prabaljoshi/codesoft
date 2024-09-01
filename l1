@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prabal Joshi - Web Developer & Digital Marketer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Prabal Joshi</h1>
+        <p>Web Developer & Digital Marketer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="your-image.jpg" alt="Prabal Joshi">
+        <p>Hi, I'm Prabal Joshi, a passionate web developer and digital marketer currently pursuing a BCA. I specialize in JavaScript and web development, and I'm eager to help businesses grow online.</p>
+    </section>
+    <section id="skills">
+        <h2>My Skills</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>HTML & CSS</li>
+            <li>SEO Optimization</li>
+            <li>Digital Marketing Strategies</li>
+            <li>Content Creation</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>My Projects</h2>
+        <ul>
+            <li><a href="project1.html">Project 1</a> - A dynamic website for a local business.</li>
+            <li><a href="project2.html">Project 2</a> - An e-commerce platform with integrated payment solutions.</li>
+            <li><a href="project3.html">Project 3</a> - A personal blog with SEO optimization.</li>
+        </ul>
+    </section>
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="Prabal_Joshi_Resume.pdf" download>Download My Resume</a>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: prabaljoshi402@gmail.com</p>
+        <p>Phone: +91-1234567890</p>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+    <footer>
+        <p>© 2024 Prabal Joshi</p>
+    </footer>
+</body>
+</html>
